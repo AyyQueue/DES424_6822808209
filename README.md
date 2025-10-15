@@ -2,7 +2,7 @@
 Repo for Cloud-Computing Course
 
 # testgit
-This is a test program for DES424 (your student ID).
+This is a test program for DES424 6822808209.
 ### Table of contents
 * [Required Software](#required-software)
 * [Installation](#installation)
